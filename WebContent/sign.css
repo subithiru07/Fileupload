@@ -1,0 +1,37 @@
+H1{
+	font-family:"Lucida Console";
+	font-wieght:bold;
+	text-align:center;
+	background-color: 0796DB;
+	Border-color:0796DB;
+	Border-style:groove;
+	Border-width:Medium;
+}
+
+.id{
+	font-family:"Lucida Console";
+	text-align:left;
+	background-color: 0796DB;
+	font-size:x-large;
+	Border-color:0796DB;
+	Border-style:groove;
+	Border-width:Medium;
+}
+.user{
+font-family:"Lucida Console";
+	text-align:left;
+	background-color: 0796DB;
+	font-size:x-large;
+	Border-color:0796DB;
+	Border-style:groove;
+	Border-width:Medium;
+	}
+.pwd{
+	font-family:"Lucida Console";
+	text-align:left;
+	background-color: 0796DB;
+	font-size:x-large;
+	Border-color:0796DB;
+	Border-style:groove;
+	Border-width:Medium;
+}

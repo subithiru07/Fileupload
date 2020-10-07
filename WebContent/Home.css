@@ -1,0 +1,42 @@
+
+h1{
+	font-family:"Lucida Console";
+	font-wieght:bold;
+	background-color: 0796DB;
+	Border-color:0796DB;
+	Border-style:groove;
+	Border-width:Medium;
+	
+	
+	
+}
+.one{
+	font-family:"Lucida Console";
+	text-align:left;
+	background-color: 0796DB;
+	font-size:x-large;
+	Border-color:0796DB;
+	Border-style:groove;
+	Border-width:Medium;
+}
+
+.blinking{
+	
+	text-decoration:blink;
+}
+.home{
+	background:url(isometric-laptop-file-transfer-vector_63555-8.jpg);
+	background-repeat:no-repeat;
+	background-size:cover;
+
+}
+.view{
+	font-family:"Lucida Console";
+	text-align:left;
+	font-size:x-large;
+	background-color: 0796DB;
+	Border-color:F9F9F9;
+	Border-style:groove;
+	Border-width:Medium;
+	
+}

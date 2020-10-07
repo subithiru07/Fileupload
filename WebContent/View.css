@@ -1,0 +1,59 @@
+.view{
+	font-family:"Lucida Console";
+	text-align:center;
+	font-size:x-large;
+	background-color: coral;
+	Border-color:F9F9F9;
+	Border-style:groove;
+	Border-width:Medium;
+	width:100%;
+	overflow:auto;
+	text-align:center;
+}
+.view a{
+	float:left;
+	padding:12px;
+	color:#000;
+	text-decoration:none;
+	font-size:17px;
+	width:50%;
+	text-align:center;
+}
+.view a:hover{
+	background-color:DDD2C8;
+	text-align:center;
+}
+.view a.active{
+	background-color:F9F9F9 ;
+	text-align:center;
+}
+.data{
+	
+	font-family:"Lucida Console";
+	text-align:center;
+	font-size:x-large;
+	background-color: DDD2C8;
+	Border-color:F9F9F9;
+	Border-style:groove;
+	Border-width:Medium;
+	width:100%;
+	overflow:auto;
+	}
+.data a{
+	float:left;
+	padding:12px;
+	color:#000;
+	text-decoration:none;
+	font-size:17px;
+	width:50%;
+	text-align:center;
+	
+}	
+.data a:hover{
+	background-color:F9F9F9;
+	text-align:center;
+}
+.data a:active{
+	background-color:DDD2C8;
+	text-align:center;
+}
